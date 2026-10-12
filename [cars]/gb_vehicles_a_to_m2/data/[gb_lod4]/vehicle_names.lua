@@ -1,0 +1,53 @@
+--   ____  _____ ____ ______   ______ _____ _____ ____     ___     _____ _____  _______ ____    ______   __  _______  __    _    ____    _____ ____  ___ _  _____ _____ ___  _   _    _        _     _   _                  ____  _ _                       _                 _______ _____ _  __     _   _ ____      _ ____ _____ _____
+--  |  _ \| ____/ ___|  _ \ \ / /  _ \_   _| ____|  _ \   ( _ )   |  ___|_ _\ \/ / ____|  _ \  | __ ) \ / / |  ___\ \/ /   / \  |  _ \  |  ___|  _ \|_ _| |/ /_ _|_   _/ _ \| \ | |  / \      | |__ | |_| |_ _ __  ___ _   / / /_| (_)___  ___ ___  _ __ __| |  __ _  __ _   / / ____|_   _| |/ /__ _| | | | ___|  __| | ___|___  |___  |
+--  | | | |  _|| |   | |_) \ V /| |_) || | |  _| | | | |  / _ \/\ | |_   | | \  /|  _| | | | | |  _ \\ V /  | |_   \  /   / _ \ | |_) | | |_  | |_) || || ' / | |  | || | | |  \| | / _ \     | '_ \| __| __| '_ \/ __(_) / / / _` | / __|/ __/ _ \| '__/ _` | / _` |/ _` | / /|  _|   | | | ' // _` | |_| |___ \ / _` |___ \  / /   / /
+--  | |_| | |__| |___|  _ < | | |  __/ | | | |___| |_| | | (_>  < |  _|  | | /  \| |___| |_| | | |_) || |   |  _|  /  \  / ___ \|  __/  |  _| |  _ < | || . \ | |  | || |_| | |\  |/ ___ \ _  | | | | |_| |_| |_) \__ \_ / / / (_| | \__ \ (_| (_) | | | (_| || (_| | (_| |/ / | |___  | | | . \ (_| |  _  |___) | (_| |___) |/ /   / /
+--  |____/|_____\____|_| \_\|_| |_|    |_| |_____|____/   \___/\/ |_|   |___/_/\_\_____|____/  |____/ |_|   |_|   /_/\_\/_/   \_\_|     |_|   |_| \_\___|_|\_\___| |_| \___/|_| \_/_/   \_(_) |_| |_|\__|\__| .__/|___(_)_/_/ \__,_|_|___/\___\___/|_|  \__,_(_)__, |\__, /_/  |_____| |_| |_|\_\__, |_| |_|____/ \__,_|____//_/   /_/
+--                                                                                                                                                                                                          |_|                                                |___/ |___/                         |_|
+-- https://discord.gg/ETKqH5d577
+
+Citizen.CreateThread(function()
+AddTextEntry("GBLOD4", "LOD-4")
+AddTextEntry("LOD4_ARMOR", "Armor")
+AddTextEntry("LOD4_BUMF1", "Trail Bumper")
+AddTextEntry("LOD4_BUMF1B", "Trail Bumper w Lights")
+AddTextEntry("LOD4_BUMF2", "Heavy Bumper")
+AddTextEntry("LOD4_BUMF2B", "Heavy Bumper w Lights")
+AddTextEntry("LOD4_BUMF3", "Lightweight Bumper")
+AddTextEntry("LOD4_BUMR1", "Trail Bumper")
+AddTextEntry("LOD4_FLARE2", "Custom Fender Flares")
+AddTextEntry("LOD4_MIR1", "Painted Mirrors")
+AddTextEntry("LOD4_RACK0", "Remove Bed Cover")
+AddTextEntry("LOD4_RACK1", "Roof Bars")
+AddTextEntry("LOD4_RACK2", "Roof Rack")
+AddTextEntry("LOD4_RACK3", "Roof Rack w Items")
+AddTextEntry("LOD4_RACK4", "Camper Shell")
+
+AddTextEntry("LOD4_LIV1", "Coil Stripes Black")
+AddTextEntry("LOD4_LIV2", "Coil Stripes Grey")
+AddTextEntry("LOD4_LIV3", "Coil Stripes White")
+AddTextEntry("LOD4_LIV4", "Graffiti Brat")
+AddTextEntry("LOD4_LIV5", "Graffiti Iridescent")
+AddTextEntry("LOD4_LIV6", "Graffiti Pastel")
+AddTextEntry("LOD4_LIV7", "Graffiti Rainbow")
+AddTextEntry("LOD4_LIV8", "Graffiti Transparent")
+AddTextEntry("LOD4_LIV9", "Graffiti Pink")
+AddTextEntry("LOD4_LIV10", "Graffiti Grey")
+AddTextEntry("LOD4_LIV11", "EP-2024")
+AddTextEntry("LOD4_LIV12", "Fade Black-Front")
+AddTextEntry("LOD4_LIV13", "Fade Black-Rear")
+AddTextEntry("LOD4_LIV14", "Fade White-Front")
+AddTextEntry("LOD4_LIV15", "Fade White-Rear")
+AddTextEntry("LOD4_LIV18", "Avon's Dream")
+AddTextEntry("LOD4_LIV20", "Geometry White")
+AddTextEntry("LOD4_LIV21", "Geometry Red")
+AddTextEntry("LOD4_LIV22", "Geometry Black")
+AddTextEntry("LOD4_LIV23", "Geometry Green")
+AddTextEntry("LOD4_LIV24", "Geometry Blue")
+AddTextEntry("LOD4_LIV25", "Crash Test Dummy")
+AddTextEntry("LOD4_LIV26", "Tech Camo Black")
+AddTextEntry("LOD4_LIV27", "Tech Camo White")
+AddTextEntry("LOD4_LIV28", "Tech Camo Green")
+AddTextEntry("LOD4_LIV29", "Tech Camo Blue")
+AddTextEntry("LOD4_LIV30", "Next-Gen Warfare")
+end)
