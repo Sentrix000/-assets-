@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+   <variationData>
+      <Item>
+         <modelName>emsbrute</modelName>
+         <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            156
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+         <kits>
+            <Item>0_default_modkit</Item>
+         </kits>
+         <windowsWithExposedEdges />
+         <plateProbabilities>
+            <Probabilities>
+               <Item>
+                  <Name>Standard White</Name>
+                  <Value value="100" />
+               </Item>
+            </Probabilities>
+         </plateProbabilities>
+         <lightSettings value="0" />
+         <sirenSettings value="77533" />
+      </Item>
+      <Item>
+      <modelName>emsspeedo</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            156
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="50"/>
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0"/>
+      <sirenSettings value="23123"/>
+    </Item>
+   </variationData>
+</CVehicleModelInfoVariation>

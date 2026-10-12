@@ -1,0 +1,6670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <!-- Custom Start -->
+    <!-- Vapid Scout -->
+    <Item>
+      <modelName>onx_scout25</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            5
+            5
+            5
+            0
+            93
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            3
+            0
+            93
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            1
+            1
+            2
+            0
+            93
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            0
+            93
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            6
+            0
+            93
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            112
+            0
+            93
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            156
+            156
+            156
+            0
+            93
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            134
+            0
+            93
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            43
+            43
+            43
+            0
+            93
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            122
+            122
+            107
+            0
+            93
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            147
+            147
+            147
+            0
+            93
+            134
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5801_onx_scout25_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="150" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Invetero Coquette D9 -->
+    <Item>
+      <modelName>onx_coquetted9</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            4
+            4
+            4
+            156
+            8
+            112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            2
+            2
+            6
+            156
+            98
+            112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            1
+            1
+            0
+            156
+            37
+            112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31
+            31
+            39
+            156
+            45
+            112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            88
+            88
+            0
+            156
+            73
+            112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            75
+            70
+            156
+            37
+            112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            29
+            28
+            156
+            37
+            112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            2
+            73
+            6
+            156
+            73
+            112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            49
+            49
+            51
+            156
+            37
+            112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            38
+            38
+            73
+            13
+            73
+            112
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            57
+            57
+            53
+            156
+            37
+            112
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5802_onx_coquetted9_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="20" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="80" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Bravado Dorado ST -->
+    <Item>
+      <modelName>onx_doradost</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            3
+            111
+            6
+            22
+            111
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            3
+            8
+            6
+            22
+            111
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            3
+            1
+            6
+            22
+            111
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            52
+            3
+            151
+            6
+            37
+            111
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31
+            3
+            27
+            6
+            22
+            111
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            89
+            111
+            6
+            22
+            111
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            6
+            3
+            6
+            6
+            22
+            111
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            11
+            3
+            2
+            6
+            22
+            111
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            143
+            89
+            34
+            6
+            22
+            111
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            141
+            89
+            66
+            6
+            22
+            111
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            77
+            89
+            73
+            6
+            22
+            111
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5803_onx_doradost_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Ubermacht Kandra -->
+    <Item>
+      <modelName>onx_kandra</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            4
+            111
+            0
+            7
+            8
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31
+            111
+            0
+            7
+            8
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            73
+            0
+            7
+            8
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            64
+            111
+            0
+            7
+            8
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            63
+            111
+            0
+            7
+            8
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>5000_standard_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Canis Invictus -->
+    <Item>
+      <modelName>onx_invictus</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+            0
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            111
+            111
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            52
+            52
+            52
+            52
+            52
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            3
+            3
+            3
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            6
+            6
+            6
+            6
+            6
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            29
+            29
+            29
+            29
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            92
+            92
+            92
+            92
+            92
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            70
+            70
+            70
+            70
+            70
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            134
+            134
+            134
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            100
+            100
+            100
+            100
+            100
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            7
+            7
+            7
+            7
+            7
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>5804_onx_invictus_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="202" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Canis Invictus Overland -->
+    <Item>
+      <modelName>onx_invictus2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+            0
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            111
+            111
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            52
+            52
+            52
+            52
+            52
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            3
+            3
+            3
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            6
+            6
+            6
+            6
+            6
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            29
+            29
+            29
+            29
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            92
+            92
+            92
+            92
+            92
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            70
+            70
+            70
+            70
+            70
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            134
+            134
+            134
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            100
+            100
+            100
+            100
+            100
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            7
+            7
+            7
+            7
+            7
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>5804_onx_invictus_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="202" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Canis Invictus Trailer -->
+    <Item>
+      <modelName>onx_invicttrail</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+            0
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            111
+            111
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            52
+            52
+            52
+            52
+            52
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            3
+            3
+            3
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            6
+            6
+            6
+            6
+            6
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            29
+            29
+            29
+            29
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            92
+            92
+            92
+            92
+            92
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            70
+            70
+            70
+            70
+            70
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            134
+            134
+            134
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            100
+            100
+            100
+            100
+            100
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            7
+            7
+            7
+            7
+            7
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>5805_onx_invicttrail_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="202" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Canis Invictus Overland Trailer -->
+    <Item>
+      <modelName>onx_invicttrail2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+            0
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            111
+            111
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            52
+            52
+            52
+            52
+            52
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            3
+            3
+            3
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            6
+            6
+            6
+            6
+            6
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            29
+            29
+            29
+            29
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            92
+            92
+            92
+            92
+            92
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            70
+            70
+            70
+            70
+            70
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            134
+            134
+            134
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            100
+            100
+            100
+            100
+            100
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            7
+            7
+            7
+            7
+            7
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>5805_onx_invicttrail_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="202" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Bravado Buffalo Hellfire -->
+    <Item>
+      <modelName>onx_buffalohf</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            27
+            0
+            28
+            0
+            93
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            64
+            0
+            73
+            0
+            93
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            0
+            111
+            0
+            93
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            1
+            2
+            0
+            93
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            89
+            1
+            2
+            0
+            93
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            1
+            5
+            0
+            93
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            38
+            1
+            89
+            0
+            93
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            70
+            1
+            67
+            0
+            93
+            134
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5807_onx_buffalohf_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Bravado Buffalo A/C -->
+    <Item>
+      <modelName>onx_buffaloac</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            11
+            11
+            11
+            0
+            93
+            134
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            0
+            93
+            134
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            6
+            6
+            6
+            0
+            93
+            134
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            64
+            64
+            69
+            0
+            93
+            134
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31
+            31
+            32
+            0
+            93
+            134
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            0
+            93
+            134
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            8
+            0
+            0
+            93
+            134
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            150
+            150
+            0
+            0
+            93
+            134
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            36
+            36
+            0
+            0
+            93
+            134
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            88
+            88
+            0
+            0
+            93
+            134
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>5808_onx_buffaloac_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Declasse Tulip M-100 Coupe -->
+    <Item>
+      <modelName>onx_tulip2c</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            1
+            0
+            121
+            156
+            34
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            49
+            120
+            5
+            156
+            102
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31
+            120
+            5
+            156
+            113
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            105
+            120
+            5
+            156
+            114
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            79
+            120
+            5
+            156
+            106
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>523_tulip2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="129" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Canis Terminus Overland -->
+    <Item>
+      <modelName>onx_terminus2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+            0
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            111
+            111
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            52
+            52
+            52
+            52
+            52
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            3
+            3
+            3
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            6
+            6
+            6
+            6
+            6
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            29
+            29
+            29
+            29
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            42
+            42
+            42
+            42
+            42
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            88
+            88
+            88
+            88
+            88
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            70
+            70
+            70
+            70
+            70
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            134
+            134
+            134
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            100
+            100
+            100
+            100
+            100
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            91
+            91
+            91
+            91
+            91
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            7
+            7
+            7
+            7
+            7
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            127
+            127
+            127
+            127
+            127
+            156
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>5809_onx_terminus2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="202" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Vapid Dominator GT -->
+    <Item>
+      <modelName>onx_domgtcoupe</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            73
+            73
+            70
+            117
+            93
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            117
+            93
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            9
+            117
+            93
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            16
+            16
+            14
+            117
+            93
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            56
+            56
+            51
+            117
+            93
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            15
+            15
+            14
+            117
+            93
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            62
+            76
+            117
+            93
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            32
+            32
+            27
+            117
+            93
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            6
+            6
+            5
+            117
+            93
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            147
+            147
+            147
+            117
+            93
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            8
+            0
+            117
+            93
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            49
+            49
+            57
+            117
+            93
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            156
+            156
+            156
+            117
+            93
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            134
+            117
+            93
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            57
+            57
+            53
+            117
+            93
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            75
+            77
+            117
+            93
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            88
+            88
+            89
+            117
+            93
+            156
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5810_onx_domgtcoupe_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="196" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Vapid Tavros -->
+    <Item>
+      <modelName>onx_tavros</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            93
+            93
+            90
+            5
+            113
+            113
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            18
+            18
+            8
+            5
+            113
+            113
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            147
+            147
+            2
+            5
+            113
+            113
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            8
+            13
+            5
+            113
+            113
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            112
+            5
+            113
+            113
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            96
+            96
+            101
+            5
+            113
+            113
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            63
+            63
+            0
+            5
+            113
+            113
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            0
+            5
+            113
+            113
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            73
+            73
+            75
+            5
+            113
+            113
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            32
+            32
+            32
+            5
+            113
+            113
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            33
+            90
+            5
+            113
+            113
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            61
+            61
+            63
+            5
+            113
+            113
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>5811_onx_tavros_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Cheval Ambassador -->
+    <Item>
+      <modelName>onx_ambassador</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            6
+            6
+            3
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5812_onx_ambassador_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Vapid Sandking D155 -->
+    <Item>
+      <modelName>onx_sandking</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            156
+            8
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            103
+            106
+            96
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            8
+            156
+            8
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            1
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            1
+            93
+            0
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            49
+            8
+            1
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            99
+            99
+            93
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            93
+            0
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            11
+            3
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            29
+            0
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            75
+            62
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            33
+            0
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5813_onx_sandking_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Vapid Sandking D155 SWB -->
+    <Item>
+      <modelName>onx_sandking2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            156
+            8
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            0
+            156
+            8
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            8
+            156
+            8
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            1
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            1
+            93
+            0
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            49
+            8
+            1
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            99
+            99
+            93
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            93
+            0
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            11
+            3
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            29
+            0
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            75
+            62
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            33
+            0
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5814_onx_sandking2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Vapid Sandking D155 XL -->
+    <Item>
+      <modelName>onx_sandking3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            156
+            8
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            103
+            106
+            96
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            8
+            156
+            8
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            1
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            1
+            93
+            0
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            49
+            8
+            1
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            99
+            99
+            93
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            93
+            0
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            11
+            3
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            29
+            0
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            75
+            62
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            33
+            0
+            156
+            110
+            134
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5815_onx_sandking3_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Vapid Sandking D155 Compensator -->
+    <Item>
+      <modelName>onx_sandking4</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            156
+            8
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            0
+            156
+            8
+            6
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            8
+            156
+            8
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            1
+            156
+            110
+            6
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            1
+            93
+            0
+            156
+            110
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            49
+            8
+            1
+            156
+            110
+            6
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            99
+            99
+            93
+            156
+            110
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            93
+            0
+            156
+            110
+            6
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            11
+            3
+            156
+            110
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            29
+            0
+            156
+            110
+            6
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            75
+            62
+            156
+            110
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            33
+            0
+            156
+            110
+            6
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5816_onx_sandking4_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Vapid Sandking D155 SWB Compensator -->
+    <Item>
+      <modelName>onx_sandking5</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            156
+            8
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            0
+            156
+            8
+            6
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            8
+            156
+            8
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            1
+            156
+            110
+            6
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            1
+            93
+            0
+            156
+            110
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            49
+            8
+            1
+            156
+            110
+            6
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            99
+            99
+            93
+            156
+            110
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            93
+            0
+            156
+            110
+            6
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            11
+            3
+            156
+            110
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            29
+            0
+            156
+            110
+            6
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            75
+            62
+            156
+            110
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            33
+            0
+            156
+            110
+            6
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5817_onx_sandking5_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Vapid Sandking D155 XL Compensator -->
+    <Item>
+      <modelName>onx_sandking6</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            156
+            8
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            0
+            156
+            8
+            6
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            8
+            156
+            8
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            1
+            156
+            110
+            6
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            1
+            93
+            0
+            156
+            110
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            49
+            8
+            1
+            156
+            110
+            6
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            99
+            99
+            93
+            156
+            110
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            93
+            0
+            156
+            110
+            6
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            11
+            3
+            156
+            110
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            29
+            0
+            156
+            110
+            6
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            75
+            62
+            156
+            110
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            33
+            0
+            156
+            110
+            0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5818_onx_sandking6_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Vapid Sandking D155 Snow Plow -->
+    <Item>
+      <modelName>onx_snowsandk</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            103
+            106
+            96
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            8
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            1
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            1
+            93
+            0
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            49
+            8
+            1
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            99
+            99
+            93
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            93
+            0
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            11
+            3
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            29
+            0
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            75
+            62
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            33
+            0
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5819_onx_snowsandk_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="5800" />
+    </Item>
+    <!-- Vapid Sandking D155 SWB Snow Plow -->
+    <Item>
+      <modelName>onx_snowsandk2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            0
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            8
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            1
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            1
+            93
+            0
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            49
+            8
+            1
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            99
+            99
+            93
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            93
+            0
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            11
+            3
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            29
+            0
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            75
+            62
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            33
+            0
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5820_onx_snowsandk2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="5800" />
+    </Item>
+    <!-- Vapid Sandking D155 XL Snow Plow -->
+    <Item>
+      <modelName>onx_snowsandk3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            103
+            106
+            96
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            8
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            1
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            1
+            93
+            0
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            49
+            8
+            1
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            99
+            99
+            93
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            93
+            0
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            11
+            3
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            29
+            0
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            75
+            62
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            33
+            0
+            156
+            88
+            27
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5821_onx_snowsandk3_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="5800" />
+    </Item>
+    <!-- Buckingham Maverick -->
+    <Item>
+      <modelName>onx_maverick</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            27
+            0
+            28
+            0
+            93
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            64
+            0
+            73
+            0
+            93
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            0
+            111
+            0
+            93
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            1
+            2
+            0
+            93
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            89
+            1
+            2
+            0
+            93
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            1
+            5
+            0
+            93
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            38
+            1
+            89
+            0
+            93
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            70
+            1
+            67
+            0
+            93
+            134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>5822_onx_maverick_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities />
+      </plateProbabilities>
+      <lightSettings value="18" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Vapid Sandstorm D205 Box Truck -->
+    <Item>
+      <modelName>onx_boxstorm</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            4
+            1
+            1
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>6823_onx_boxstorm_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Bravado Bison 45XD Box Truck -->
+    <Item>
+      <modelName>onx_tfboxson</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            4
+            1
+            1
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>5824_onx_tfboxson_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Vapid Sandking D155 Box Truck -->
+    <Item>
+      <modelName>onx_boxking</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            4
+            1
+            1
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>5825_onx_boxking_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Vapid Sandstorm D205 SWB Rollback -->
+    <Item>
+      <modelName>onx_towstorm</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            61
+            0
+            74
+            0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            0
+            73
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            2
+            0
+            5
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            0
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            7
+            0
+            111
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            0
+            4
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            0
+            27
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            7
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>6826_onx_towstorm_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="5801" />
+    </Item>
+    <!-- Vapid Sandstorm D205 Rollback -->
+    <Item>
+      <modelName>onx_towstorm2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            61
+            0
+            74
+            0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            75
+            0
+            73
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            2
+            0
+            5
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            0
+            0
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            7
+            0
+            111
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            0
+            4
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            0
+            27
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            7
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>6827_onx_towstorm2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="5801" />
+    </Item>
+    <!-- Bravado Bison 45XD SWB Rollback -->
+    <Item>
+      <modelName>onx_tftowson</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            147
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            10
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>5828_onx_tftowson_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="5801" />
+    </Item>
+    <!-- Bravado Bison 45XD Rollback -->
+    <Item>
+      <modelName>onx_tftowson2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            147
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            10
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>5829_onx_tftowson2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="5801" />
+    </Item>
+    <!-- Vapid Sandking D155 SWB Rollback -->
+    <Item>
+      <modelName>onx_towking</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            147
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            10
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>5830_onx_towking_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="5801" />
+    </Item>
+    <!-- Vapid Sandking D155 Rollback -->
+    <Item>
+      <modelName>onx_towking2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            147
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            10
+            0
+            2
+            2
+            2
+            0
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>5831_onx_towking2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="5801" />
+    </Item>
+    <Item>
+      <modelName>onx_sandstorm</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            6
+            6
+            3
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            111
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            4
+            4
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            64
+            64
+            64
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            27
+            27
+            39
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            1
+            1
+            0
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            5
+            5
+            14
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31
+            31
+            32
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            8
+            0
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            8
+            0
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            62
+            61
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            3
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            73
+            73
+            70
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>7836_onx_sandstorm_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>onx_sandstormxl</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            3
+            156
+            7
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            6
+            6
+            3
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            103
+            98
+            97
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            27
+            27
+            39
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            111
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            4
+            4
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            64
+            64
+            64
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            1
+            1
+            0
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            5
+            5
+            14
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31
+            31
+            32
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            8
+            0
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            8
+            0
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            62
+            61
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            3
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            73
+            73
+            70
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>7837_onx_sandstormxl_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>onx_sandstorm2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            3
+            1
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            29
+            0
+            3
+            1
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            95
+            95
+            0
+            3
+            1
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            0
+            3
+            1
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            66
+            66
+            0
+            3
+            1
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            7
+            7
+            0
+            3
+            1
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            141
+            141
+            0
+            3
+            1
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            2
+            2
+            0
+            3
+            1
+            0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>7838_onx_sandstorm2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>onx_sandstormh</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            0
+            3
+            1
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            29
+            29
+            0
+            3
+            1
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            95
+            95
+            0
+            3
+            1
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            0
+            3
+            1
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            66
+            66
+            0
+            3
+            1
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            7
+            7
+            0
+            3
+            1
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            141
+            141
+            0
+            3
+            1
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            2
+            2
+            0
+            3
+            1
+            0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>7839_onx_sandstormh_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="119" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>onx_tfalamo</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            112
+            156
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            1
+            156
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            93
+            93
+            95
+            156
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            112
+            156
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            62
+            62
+            156
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            11
+            11
+            11
+            156
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            52
+            52
+            52
+            156
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            6
+            6
+            6
+            156
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31
+            31
+            27
+            156
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5840_onx_tfalamo_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>onx_tfgranger</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            112
+            156
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            1
+            156
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            93
+            93
+            95
+            156
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            112
+            156
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            62
+            62
+            156
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            11
+            11
+            11
+            156
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            52
+            52
+            52
+            156
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            6
+            6
+            6
+            156
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31
+            31
+            27
+            156
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5841_onx_tfgranger_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>onx_tfregent</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            112
+            0
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            1
+            0
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            93
+            93
+            95
+            0
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            112
+            0
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            62
+            62
+            0
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            11
+            11
+            11
+            0
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            52
+            52
+            52
+            0
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            6
+            6
+            6
+            0
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31
+            31
+            27
+            0
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5842_onx_tfregent_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>onx_tfregentxl</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            112
+            112
+            0
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            1
+            0
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            93
+            93
+            95
+            0
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            112
+            0
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            62
+            62
+            0
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            11
+            11
+            11
+            0
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            52
+            52
+            52
+            0
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            6
+            6
+            6
+            0
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31
+            31
+            27
+            0
+            97
+            0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5843_onx_tfregentxl_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>onx_tfbison</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            8
+            11
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            2
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31
+            31
+            31
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            3
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            101
+            2
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            43
+            43
+            43
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            62
+            82
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>5844_onx_tfbison_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>onx_tfbison2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            156
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            2
+            156
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            8
+            11
+            156
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            156
+            114
+            1
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31
+            31
+            31
+            156
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            3
+            156
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            156
+            114
+            3
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            101
+            2
+            156
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            43
+            43
+            43
+            156
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            62
+            82
+            156
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>5845_onx_tfbison2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>onx_tfbison3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            8
+            11
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            156
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31
+            31
+            31
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            3
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            101
+            2
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            43
+            43
+            43
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            62
+            82
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>5846_onx_tfbison3_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>onx_tfbison4</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            156
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            111
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            8
+            11
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31
+            31
+            31
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            3
+            3
+            3
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            101
+            2
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            43
+            43
+            43
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            62
+            62
+            82
+            2
+            114
+            0
+          </indices>
+          <liveries>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>5844_onx_tfbison_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>onx_scoutc</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            23
+            32
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            63
+            63
+            0
+            23
+            3
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            51
+            106
+            0
+            23
+            106
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            30
+            106
+            0
+            23
+            106
+            0
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            106
+            0
+            23
+            106
+            0
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>5847_onx_scoutc_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>onx_merit1</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            6
+            6
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            4
+            4
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            2
+            2
+            3
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            1
+            1
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31
+            31
+            32
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            94
+            94
+            96
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            10
+            10
+            10
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            8
+            9
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            49
+            49
+            50
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            34
+            35
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            68
+            68
+            69
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            90
+            90
+            90
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            5
+            5
+            6
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            63
+            63
+            64
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            106
+            106
+            107
+            156
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>559_impaler6_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="40" />
+          </Item>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="30" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="30" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+    <Item>
+      <modelName>onx_merit2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            154
+            156
+            154
+            156
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            100
+            156
+            100
+            156
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            142
+            142
+            143
+            156
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            34
+            35
+            156
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            45
+            45
+            47
+            156
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            101
+            101
+            104
+            156
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            17
+            17
+            16
+            156
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            8
+            18
+            4
+            156
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            99
+            99
+            107
+            156
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            95
+            104
+            98
+            156
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            101
+            156
+            34
+            156
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            37
+            37
+            37
+            156
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            143
+            156
+            34
+            156
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            156
+            9
+            156
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            51
+            156
+            54
+            156
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            78
+            156
+            78
+            156
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34
+            156
+            9
+            156
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            156
+            9
+            156
+            8
+            156
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>548_impaler5_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="168" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Declasse Merit -->
+    <Item>
+      <modelName>onx_merit3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            6
+            6
+            3
+            156
+            98
+            134
+          </indices>
+          <liveries />
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+    <!-- Custom End -->
+  </variationData>
+</CVehicleModelInfoVariation>
